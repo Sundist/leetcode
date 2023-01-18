@@ -42,7 +42,7 @@ class LinkedList:
         for value in values:
             self.add_node(value)
 
-class Solution:s
+class Solution:
     def hasCycle(self, head) -> bool:
         if not head and head == None:
             return False
